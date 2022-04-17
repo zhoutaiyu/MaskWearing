@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>02694.jpg</filename>
+	<path>D:\database\VOCdevkit\VOC2007\JPEGImages\02694.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1124</width>
+		<height>1135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>385</ymin>
+			<xmax>801</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

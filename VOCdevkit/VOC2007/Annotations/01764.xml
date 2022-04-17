@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no_labels</folder>
+	<filename>00002710.jpg</filename>
+	<path>C:\AI\train_work\yolo3-keras-master-v2\yolo3-keras-master\no_labels\00002710.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>1</ymin>
+			<xmax>236</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

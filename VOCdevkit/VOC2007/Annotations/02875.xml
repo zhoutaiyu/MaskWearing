@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set7</folder>
+	<filename>62c3d9a6-4c9e-493a-8935-19ead91e5c89_m.jpg</filename>
+	<path>G:\MaskDetect\datasets\set7\62c3d9a6-4c9e-493a-8935-19ead91e5c89_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>167</ymin>
+			<xmax>712</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

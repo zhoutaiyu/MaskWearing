@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>00111.jpg</filename>
+	<path>D:\deepLearning\faster-rcnn-pytorch-master\VOCdevkit\VOC2007\JPEGImages\00111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>23</ymin>
+			<xmax>164</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>other</folder>
+	<filename>test_00003247.jpg</filename>
+	<path>D:\database\world_face_datasetes\new\other\test_00003247.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>82</ymin>
+			<xmax>369</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

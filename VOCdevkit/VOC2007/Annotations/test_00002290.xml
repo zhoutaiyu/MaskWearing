@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_mask</folder>
+	<filename>test_00002290.jpg</filename>
+	<path>E:\face_datasetes\train_mask\test_00002290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>126</ymin>
+			<xmax>132</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	</annotation>

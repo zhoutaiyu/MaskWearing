@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val_mask_zhuyuxi</folder>
+	<filename>test_00004359.jpg</filename>
+	<path>/home/zhuyuxi/Pictures/&#21475;&#32617;/val_mask_zhuyuxi/test_00004359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>195</ymin>
+			<xmax>548</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+	</annotation>

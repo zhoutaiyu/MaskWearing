@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set4</folder>
+	<filename>882f5c5fly1geoioact7ej22c02c04qr.jpg</filename>
+	<path>G:\MaskDetect\datasets\set4\882f5c5fly1geoioact7ej22c02c04qr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>181</ymin>
+			<xmax>331</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

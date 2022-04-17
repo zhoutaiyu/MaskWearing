@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val_mask_zhuyuxi</folder>
+	<filename>test_00001027.jpg</filename>
+	<path>/home/zhuyuxi/Pictures/&#21475;&#32617;/val_mask_zhuyuxi/test_00001027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>778</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>104</ymin>
+			<xmax>433</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

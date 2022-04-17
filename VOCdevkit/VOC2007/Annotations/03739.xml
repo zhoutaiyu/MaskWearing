@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set4</folder>
+	<filename>4deda15fly1gemjj0gy6pj22io2io7wk.jpg</filename>
+	<path>G:\MaskDetect\datasets\set4\4deda15fly1gemjj0gy6pj22io2io7wk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>222</ymin>
+			<xmax>415</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

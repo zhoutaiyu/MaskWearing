@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set6</folder>
+	<filename>aab9739aly1gesaov0a9qj21zk1bpe82.jpg</filename>
+	<path>G:\MaskDetect\datasets\set6\aab9739aly1gesaov0a9qj21zk1bpe82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>54</ymin>
+			<xmax>528</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

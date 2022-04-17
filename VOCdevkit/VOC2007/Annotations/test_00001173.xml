@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>test_00001173.jpg</filename>
+	<path>D:\database\VOCdevkit\VOC2007\JPEGImages\test_00001173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>correctlyWear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>22</ymin>
+			<xmax>232</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>
